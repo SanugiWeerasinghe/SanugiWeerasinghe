@@ -1,35 +1,45 @@
-<h1 align="center">Hi 👋, I'm Sanugi Weerasinghe</h1>
-<h3 align="center">A Motivated Computer Science undergraduate at University of Westminster</h3>
+# Hi 👋, I'm Sanugi Weerasinghe
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanugiweerasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="sanugiweerasinghe" /> </p>
+A Motivated Computer Science undergraduate at University of Westminster
 
-- 🌱 I’m currently learning **Java, JavaScript, Python, HTML, CSS, Spring Boot, React.js**
+![Profile Views](https://komarev.com/ghpvc/?username=SanugiWeerasinghe&label=Profile%20views&color=0e75b6&style=flat)
 
-- 📫 How to reach me: **[your-email@example.com]**
+### 🧠 I’m currently learning 
+Java, JavaScript, Python, HTML, CSS, Spring Boot, React.js
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-  </a>
-</p>
+### 📬 How to reach me 
+sanugid.weerasinghe@example.com <!-- Replace with your real email -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-</p>
+---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanugiweerasinghe&layout=compact&theme=dark" alt="top languages"/>
-</p>
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/sanugi-weerasinghe-06a035294) <!-- Replace with your actual link -->
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanugiweerasinghe&show_icons=true&theme=dark" alt="GitHub stats"/>
-</p>
+---
+
+## 🛠️ Languages and Tools:
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+
+---
+
+## 📊 GitHub Stats:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanugiWeerasinghe&layout=compact&theme=tokyonight)
+
+![Sanugi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanugiWeerasinghe&show_icons=true&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=SanugiWeerasinghe&theme=dark_lover)](https://github.com/SanugiWeerasinghe/github-profile-trophy)
